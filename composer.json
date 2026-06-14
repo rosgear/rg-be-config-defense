@@ -1,0 +1,26 @@
+{
+    "name": "rosgear/rg-be-config-defense",
+    "description": "Extension (module) \"Configuring access by IP Address\" for the GePanel Control Panel",
+    "keywords": ["rosgear", "gepanel", "extension (module)"],
+    "homepage": "https://rosgear.ru/component/rg-be-config-defense/",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://rosgear.ru/"
+        }
+    ],
+    "require": {
+        "rosgear/ge2-composer-plugin": "*"
+    },
+    "extra": {
+        "ge": {
+            "id": "rg.be.config.defense",
+            "vendor": "ge"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
