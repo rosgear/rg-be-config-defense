@@ -47,7 +47,7 @@ Configure access rules to the GePanel Control Panel and the RosGear web applicat
 The module extension is part of the GePanel Control Panel and serves as an extension for the [«Configuration» module](https://github.com/rosgear/rg-be-config).
 
 ### Screenshot
-<img src="https://github.com/rosgear/rg-be-config-defense/blob/main/assets/help/grid.png?raw=true">
+<img src="https://github.com/rosgear/rg-be-config-defense/blob/main/assets/help/form.png?raw=true">
 
 ### Installation
 
