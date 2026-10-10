@@ -12,8 +12,8 @@
 return [
     'name'        => 'Configuring access by IP Address',
     'description' => 'Restricting user access to the control panel and website by IP address',
-    'version'     => '1.0',
-    'versionDate' => '20-12-2017',
+    'version'     => '1.0.1',
+    'versionDate' => '06-10-2026',
     'author'      => 'RosGear',
     'authorUrl'   => 'https://rosgear.ru/',
     'email'       => 'info@rosgear.ru',
